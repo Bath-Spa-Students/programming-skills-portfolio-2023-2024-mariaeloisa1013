@@ -1,3 +1,4 @@
+#use triple quotation marks to print multiple lines
 print ('''
 Twinkle, twinkle, little star,
 	How I wonder what you are! 

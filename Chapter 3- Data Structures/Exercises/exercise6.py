@@ -1,4 +1,4 @@
-#list three people invited
+#list four people invited
 ppl = ["phoebe", "alexa","marwa", "kairi"]
 
 #assign message to variable
