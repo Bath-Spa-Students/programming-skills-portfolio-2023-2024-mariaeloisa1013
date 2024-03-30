@@ -2,5 +2,5 @@
 hi = str(input("Say hi;"))
 
 #never ending loop
-while hi == 'hello':
+while hi == 'hihi':
         print ("Hello how are you?")

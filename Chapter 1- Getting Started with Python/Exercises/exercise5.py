@@ -1,5 +1,5 @@
 #allow float input into variable, radius
-radius = float(input("\brWhat's the radius of the circle? "))
+radius = float(input("\n What's the radius of the circle? "))
 
 #assign varibale, area to solution
 area = (3.14*(radius**2))
